@@ -1,4 +1,4 @@
-# Crypto Recommendation Service ( Spring Boot )
+# Java Advanced Multithreading
 
 ---
 
